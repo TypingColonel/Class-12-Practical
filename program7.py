@@ -1,3 +1,5 @@
+# write a python program to read lines from a text file "Sample.txt" and copy those lines into another file “new.txt” which are starting with an alphabet 'a' or 'A'. 
+
 def copypaste():
     with open('/home/psanjay/Desktop/python works/class 12 programs/sample.txt') as d:
         with open('/home/psanjay/Desktop/python works/class 12 programs/new.txt','w') as k:
