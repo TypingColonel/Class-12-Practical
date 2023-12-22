@@ -1,3 +1,5 @@
+#Create the binary file in Python which should contains the student details and to delete the particular student based on roll no. 
+
 from os import remove,rename
 from pickle import load,dump
 
