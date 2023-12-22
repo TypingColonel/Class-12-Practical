@@ -1,3 +1,5 @@
+#Create the binary filein Python which should contains the student details and to search the particular student based on roll no and display the details.
+
 from pickle import dump, load
 
 def addrec():
