@@ -1,3 +1,5 @@
+#Read a text file line by line and display each word  seperated by a '#'
+
 def hashtag():
     a = open('/home/psanjay/Desktop/python works/class 12 programs/story.txt') #enter your directory
     while True:
