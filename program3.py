@@ -1,3 +1,5 @@
+#Write a program to find the area of the shapes using a module
+
 from area import square, rectangle ,triangle ,circle ,cube ,cylinder ,cone ,sphere
 
 print("\nProgram to check the area")
