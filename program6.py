@@ -1,3 +1,5 @@
+#Read a text file(story.txt) and display the number of vowels/consonants/uppercase/lowercase characters in the file.
+
 def count():
     with open('/home/psanjay/Desktop/python works/class 12 programs/story.txt') as a: #Enter your path
         c=v=u=l=0
